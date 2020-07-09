@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there :panda_face:
 
 - I'm currently looking for new opportunities
-- I blog at [https://rakhmad.me](rakhmad.me)
+- I blog at [rakhmad.me](https://rakhmad.me)
 - I'm learning Clojure and Erlang now
-- Best way to reach me is through [https://twitter.com/rakhmad](Twitter) or [https://linkedin.com/in/rakhmad](LinkedIn)
+- Best way to reach me is through [Twitter](https://twitter.com/rakhmad) or [LinkedIn](https://linkedin.com/in/rakhmad).
 
 
 <!--
