@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- I'm currently looking for new opportunities
+- I blog at [https://rakhmad.me](rakhmad.me)
+- I'm learning Clojure and Erlang now
+- Best way to reach me is through [https://twitter.com/rakhmad](Twitter) or [https://linkedin.com/in/rakhmad](LinkedIn)
+
+
 <!--
 **rakhmad/rakhmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
