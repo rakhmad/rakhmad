@@ -1,9 +1,9 @@
 ### Hi there :panda_face:
 
-- I'm currently looking for new opportunities
-- I blog at [rakhmad.me](https://rakhmad.me)
-- I'm learning Clojure and Erlang now
-- Best way to reach me is through [Twitter](https://twitter.com/rakhmad) or [LinkedIn](https://linkedin.com/in/rakhmad).
+- 🔭 I’m currently working on Specialist Solution Architect for Application Development in [Red Hat](https://www.redhat.com/en).
+- 🌱 I’m currently learning Java, Clojure and Erlang. 
+- 💬 I blog at [rakhmad.me](https://rakhmad.me)
+- 📫 How to reach me: [Twitter](https://twitter.com/rakhmad) or [LinkedIn](https://linkedin.com/in/rakhmad).
 
 
 <!--
